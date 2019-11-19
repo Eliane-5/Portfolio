@@ -46,7 +46,20 @@
     /* filter: alpha(opacity=60);   */   
 }
 .Projects{
-  height:575px;
+  margin-top: 40px;
+  height:500px;
+}
+#Skills{
+  height:535px;
+}
+#contact{
+  height: 515px;
+}
+.one{
+  /* display: flex;
+  flex-direction: row;
+  justify-content: space-around; */
+  text-align: center;
 }
 /* flipping cards resources on https://codemyui.com/3d-card-flip-hovering-text/ */
 *{
